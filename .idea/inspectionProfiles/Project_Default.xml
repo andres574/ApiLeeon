@@ -1,0 +1,76 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E117" />
+          <option value="E302" />
+          <option value="E231" />
+          <option value="E225" />
+          <option value="E305" />
+          <option value="E111" />
+          <option value="E128" />
+          <option value="E303" />
+          <option value="E301" />
+          <option value="E501" />
+          <option value="E266" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N806" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Reposotorios.InterceRepositorio.InterfaceRepositorio.loadFileConfig" />
+          <option value="Reposotorios.InterceRepositorio.InterfaceRepositorio._orig_bases_" />
+          <option value="Reposotorios.RepositorioEstudiante.RepositorioEstudiante.save" />
+          <option value="Reposotorios.RepositorioEstudiante.RepositorioEstudiante.*" />
+          <option value="Modelo.Estudiante.Estudiante.dict" />
+          <option value="Reposotorios.RepositorioMateria.RepositorioMateria.delete" />
+          <option value="Reposotorios.RepositorioMateria.RepositorioMateria.findById" />
+          <option value="Reposotorios.RepositorioMateria.RepositorioMateria.findAll" />
+          <option value="Reposotorios.RepositorioMateria.RepositorioMateria.save" />
+          <option value="Modelo.Materia.Materia.dict" />
+          <option value="Reposotorios.RepositorioDepartemento.RepositorioDepartamento.findAll" />
+          <option value="Reposotorios.RepositorioDepartemento.RepositorioDepartamento.save" />
+          <option value="Reposotorios.RepositorioDepartemento.RepositorioDepartamento.findById" />
+          <option value="Modelo.Departamento.Departamento.dict" />
+          <option value="Reposotorios.RepositorioDepartemento.RepositorioDepartamento.delete" />
+          <option value="Reposotorios.RepositorioInscripciones.RepositorioInscripcion.findAll" />
+          <option value="Reposotorios.RepositorioInscripciones.RepositorioInscripcion.save" />
+          <option value="Reposotorios.RepositorioInscripciones.RepositorioInscripcion.findById" />
+          <option value="self.loadFileConfig" />
+          <option value="Repositorios.InterfaceRepositorio.InterfaceRepositorio.loadFileConfig" />
+          <option value="Repositorios.InterfaceRepositorio.InterfaceRepositorio.orig_bases" />
+          <option value="Repositorios.InterfaceRepositorio.InterfaceRepositorio.findById" />
+          <option value="Repositorios.InterfaceRepositorio.InterfaceRepositorio.transformRefs" />
+          <option value="Repositorios.InterfaceRepositorio.InterfaceRepositorio.getValuesDBRef" />
+          <option value="Repositorios.InterfaceRepositorio.InterfaceRepositorio.transformObjectIds" />
+          <option value="Repositorios.InterfaceRepositorio.InterfaceRepositorio.__orig_bases__" />
+          <option value="Controladores.ControladorDepartamentos.ControladorDeparmento.getMaterias" />
+          <option value="Repositorios.RepositorioEstudiante.RepositorioEstudiante.findByid" />
+          <option value="Repositorios.InterfaceRepositorio.InterfaceRepositorio.getValuesDBRefFromList" />
+          <option value="Repositorios.InterfaceRepositorio.InterfaceRepositorio.formatList" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
